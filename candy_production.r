@@ -1,7 +1,7 @@
 
 library(forecast)
 library(zoo)
-setwd("C:\\Users\\STSC\\Documents\\SPRING-2023\\timeseries\\project\\");
+#  setwd("C:\\Users\\STSC\\Documents\\SPRING-2023\\timeseries\\project\\");
 
 ### Reading file and creating dataframe
 candy_df <- read.csv("candy_production.csv");
